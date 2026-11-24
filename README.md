@@ -1,4 +1,4 @@
-🚧  ## Requisitos funcionais e não funcionais
+🚧  Requisitos funcionais e não funcionais
 
 Este repositório reúne o levantamento dos requisitos do sistema. A proposta é deixar claro quais funcionalidades deverão existir e quais condições de qualidade precisam ser consideradas durante o desenvolvimento.
 
